@@ -16,7 +16,7 @@ document.addEventListener("DOMContentLoaded", function() {
     });
 
     const resumeButton = document.getElementById('resume-button');
-    resumeButton.addEventListener('click', function() {
+    resumeButton.addEventListener('click', function(popup) {
         window.location.href = '/Images/Resume.pdf'; // Replace with the actual path to your resume file
     });
 });
