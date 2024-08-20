@@ -4,8 +4,10 @@
 			"path": "."
 		},
 		{
-			"path": "../../Mod 18/Mod 18_src/Images"
+			"path": "../../Mod 18/Mod 18_src/Images/Resume.pdf"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Mod-18"
+	}
 }
